@@ -1,24 +1,15 @@
 export const footerSocials = [
   {
-    name: 'Twitter',
+    name: 'Facebook',
     url: 'https://twitter.com/jaydanurwin',
-    icon: "mdi:twitter",
+    icon: "mdi:facebook",
   },
   {
     name: 'Youtube',
     url: 'https://youtube.com/@jaydanurwin',
-    icon: "mdi:youtube",
+    icon: "mdi:instagram",
   },
-  {
-    name: 'Github',
-    url: 'https://github.com/jaydanurwin',
-    icon: "mdi:github",
-  },
-  {
-    name: 'Discord',
-    url: 'https://astro.build/chat',
-    icon: "ic:baseline-discord",
-  },
+
 ]
 
 export const footerLists = [
